@@ -10,16 +10,16 @@ This needs to be configured one time with sample data and other information and 
 
 1. Screen 1 - Enter your service detail (Just ODATA Service URL), all other schema related information will be read from servcie and displayed to user. User can select what operation required from each entity / function import or any info from service in this screen.
 
-[!Alt_text](Page1.png?raw=true)
+![Alt_text](Page1.png?raw=true)
 
 2. Screen 2 - Configure Sample data if an operation needs to be tested and monitored. Sample Data option is available to fill the fields automatically. Fields in this screen is read and rendered based on the metadata. These configurations can be downloaded to local system and shared with team members.
 
-[!Alt_text](page2.png?raw=true)
+![Alt_text](page2.png?raw=true)
 
 
 3. Screen 3 - Time to RUN. Screen to run the configured service requests and see the report in this screen. Running the requests needs to be done manually all the time to fetch the report. This screen also allows to correct the configurations made for an operation and rerun to check the service.
 
-[!Alt_text](page3.png?raw=true)
+![Alt_text](page3.png?raw=true)
 
 
 
